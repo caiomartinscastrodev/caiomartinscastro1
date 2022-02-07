@@ -18,4 +18,6 @@
   <li>JavaScript</li>
 </ul>
 
+<h2>Disponivel para oportunidades de emprego</h2>
+
 
