@@ -1,6 +1,6 @@
 <h1>Olá, meu nome é Caio Martins Castro</h1>
 
-<p>Sou um jovem com sede dentro da área de programação</p>
+<p>Sou um jovem com 18 anos, apaixonado por programação e tecnologia</p>
 
 
 <h2>Interreses</h2>
@@ -19,6 +19,7 @@
   <li>BootsTrap</l1>
   <li>PHP</l1>
   <li>SQL</l1>
+  <li>jQuery</l1>
 </ul>
 
 <h2>Disponivel para oportunidades de emprego</h2>
