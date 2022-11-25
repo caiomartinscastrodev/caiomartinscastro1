@@ -24,3 +24,4 @@
 
 <h2>Disponivel para oportunidades de emprego</h2>
 
+<p>E-mail: caiomartinscastro1@gmail.com</p>
