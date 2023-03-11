@@ -20,6 +20,8 @@
   <li>PHP</l1>
   <li>SQL</l1>
   <li>jQuery</l1>
+  <li>ReactJS</l1>
+  <li>NodeJS</l1>
 </ul>
 
 <h2>Disponivel para oportunidades de emprego</h2>
