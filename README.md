@@ -5,3 +5,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_caiomartinscastro/)
 
 ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caiomartinscastro1&show_icons=true&theme=radical)
+
+## Tecnologias que eu uso no meu dia a dia
