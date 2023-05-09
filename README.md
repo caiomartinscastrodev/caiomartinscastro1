@@ -34,3 +34,5 @@
 <p>
  Sou um jovem ambicioso pelos próprios sonhos e apaixonado por tecnologia, desejo aprender, ensinar e praticar programação dia após dia.
 </p>
+
+![snake gif](https://github.com/caiomartinscastro1/caiomartinscastro1/blob/output/github-contribution-grid-snake.svg)
