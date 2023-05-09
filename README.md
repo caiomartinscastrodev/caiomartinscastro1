@@ -28,3 +28,9 @@
   <img align="center" alt="express-js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img align="center" alt="sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"/>
 </div>
+
+<hr>
+
+<p>
+ Sou um jovem ambicioso pelos próprios sonhos e apaixonado por tecnologia, desejo aprender, ensinar e praticar programação dia após dia.
+</p>
