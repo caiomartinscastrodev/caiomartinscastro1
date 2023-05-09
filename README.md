@@ -5,8 +5,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_caiomartinscastro/)
 
 
-  ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caiomartinscastro1&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomartinscastro1&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+ ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caiomartinscastro1&show_icons=true&theme=radical)
+ <br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomartinscastro1&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias que eu uso no meu dia a dia
