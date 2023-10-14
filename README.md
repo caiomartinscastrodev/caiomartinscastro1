@@ -1,4 +1,4 @@
-<h1>Olá, Eu sou Caio Martins</h1>
+<h1>Hello, I am Caio Martins</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-martins-castro-a3ab9a22a/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@caiomartinscastro_)
@@ -9,7 +9,7 @@
  <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomartinscastro1&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que eu uso no meu dia a dia
+## Technologies I usually use
 
 
 
@@ -36,7 +36,7 @@
 <hr>
 
 <p>
- Sou um jovem ambicioso pelos próprios sonhos e apaixonado por tecnologia, desejo aprender, ensinar e praticar programação dia após dia.
+ My name is Caio Martins Castro, I'm 19 years old and I'm passionate about programming. As an aspiring full stack Software Engineer, I have extensive experience in web, desktop and mobile development, using various technologies. My ability to learn quickly allows me to embrace new challenges with passion.
 </p>
 
 ![snake gif](https://github.com/caiomartinscastro1/caiomartinscastro1/blob/output/github-contribution-grid-snake.svg)
