@@ -31,7 +31,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img align="center" alt="express-js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img align="center" alt="sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"/> 
- <img align="center" alt="c#" src="https://img.shields.io/badge/cshrap-323330?style=for-the-badge&logo=csharp&logoColor=purple"/>
+ <img align="center" alt="c#" src="https://img.shields.io/badge/csharp-323330?style=for-the-badge&logo=csharp&logoColor=purple"/>
 </div>
 
 <hr>
