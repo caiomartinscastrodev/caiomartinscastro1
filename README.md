@@ -5,9 +5,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_caiomartinscastro/)
 
 
- ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caiomartinscastro1&show_icons=true&theme=radical)
+ ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caiomartinscastrodev&show_icons=true&theme=radical)
  <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomartinscastro1&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomartinscastrodev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies I usually use
 
@@ -41,4 +41,4 @@
  My name is Caio Martins Castro, I'm 19 years old and I'm passionate about programming. As an aspiring full stack Software Engineer, I have extensive experience in web, desktop and mobile development, using various technologies. My ability to learn quickly allows me to embrace new challenges with passion.
 </p>
 
-![snake gif](https://github.com/caiomartinscastro1/caiomartinscastro1/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/caiomartinscastrodev/caiomartinscastrodev/blob/output/github-contribution-grid-snake.svg)
