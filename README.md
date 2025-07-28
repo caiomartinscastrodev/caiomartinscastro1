@@ -1,8 +1,6 @@
 <h1>Hello, I am Caio Martins</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-martins-castro-a3ab9a22a/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@caiomartinscastro_)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_caiomartinscastro/)
 
 
  ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caiomartinscastrodev&show_icons=true&theme=radical)
@@ -38,7 +36,7 @@
 <hr>
 
 <p>
- My name is Caio Martins Castro, I'm 19 years old and I'm passionate about programming. As an aspiring full stack Software Engineer, I have extensive experience in web, desktop and mobile development, using various technologies. My ability to learn quickly allows me to embrace new challenges with passion.
+ My name is Caio Martins Castro, I'm 21 years old and I'm passionate about programming. As an aspiring full stack Software Engineer, I have extensive experience in web, desktop and mobile development, using various technologies. My ability to learn quickly allows me to embrace new challenges with passion.
 </p>
 
 ![snake gif](https://github.com/caiomartinscastrodev/caiomartinscastrodev/blob/output/github-contribution-grid-snake.svg)
